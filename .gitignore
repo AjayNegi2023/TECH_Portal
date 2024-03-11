@@ -1,0 +1,4 @@
+/client/node_modules
+/client/src/Blog
+/server/.env
+/server/node_modules
